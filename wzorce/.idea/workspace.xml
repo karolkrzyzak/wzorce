@@ -15,19 +15,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02c3a271-1588-4406-a8e9-79d6ec723418" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/ant.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/info/krzyzak/studia/wzorce/strategia/DzikaKaczka.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/info/krzyzak/studia/wzorce/strategia/GumowaKaczka.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/info/krzyzak/studia/wzorce/strategia/Kwacz.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/info/krzyzak/studia/wzorce/strategia/KwakanieInterfejs.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/info/krzyzak/studia/wzorce/strategia/LatamBoMamSkrzydla.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/info/krzyzak/studia/wzorce/strategia/MiniSymulatorKaczki.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/info/krzyzak/studia/wzorce/strategia/NieKwacz.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/info/krzyzak/studia/wzorce/strategia/NieLatam.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/info/krzyzak/studia/wzorce/strategia/Piszcze.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/info/krzyzak/studia/wzorce/strategia/Kaczka.java" afterPath="$PROJECT_DIR$/src/info/krzyzak/studia/wzorce/strategia/Kaczka.java" />
     </list>
     <ignored path="wzorce.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -161,7 +149,7 @@
       <file leaf-file-name="Piszcze.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/info/krzyzak/studia/wzorce/strategia/Piszcze.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="36" selection-start="319" selection-end="319" vertical-scroll-proportion="0.47008547">
+            <state line="14" column="14" selection-start="331" selection-end="331" vertical-scroll-proportion="0.5982906">
               <folding />
             </state>
           </provider>
@@ -482,7 +470,7 @@
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32998326" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998326" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -617,7 +605,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/info/krzyzak/studia/wzorce/strategia/Piszcze.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="36" selection-start="319" selection-end="319" vertical-scroll-proportion="0.47008547">
+        <state line="14" column="14" selection-start="331" selection-end="331" vertical-scroll-proportion="0.5982906">
           <folding />
         </state>
       </provider>
